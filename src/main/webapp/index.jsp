@@ -5,7 +5,7 @@
     </nav>
     <div class="part1">
         <div class="content">
-            <h1>Always the ride<br> you want</h1>
+            <h1>Always the ride<br> you want hiii</h1>
             <p>Request a ride, hop in, and relax.</p>
             <a href="#scroll">Book a ride .</a>
         </div>
